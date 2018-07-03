@@ -1,0 +1,32 @@
+<resources>
+	<fonts>
+    	<font id="Garmin2" filename="fonts/Oswald75.fnt"/>
+    	<font id="Garmin3" filename="fonts/Oswald45labelPowerdashboard-unbold.fnt"/>
+    	<font id="Garmin4" filename="fonts/Oswald83.fnt"/>
+	</fonts>
+  <properties>
+    <property id="pTargetPace" type="number">0</property>
+    <property id="pRoundedPace" type="boolean">true</property>
+  </properties>
+
+	
+  <strings>
+    <!-- Release name: -->
+    <string id="AppName">Powerdashboard for Stryd</string>
+    <!-- Beta name:
+    <string id="AppName">Powerdashboard for Stryd</string>
+    -->
+    <string id="AppVersion">1.0</string>
+    <string id="lRoundedPace">Show current pace as Rounded Pace</string>
+  </strings>
+
+
+  <settings>
+    <setting propertyKey="@Properties.pRoundedPace" title="@Strings.lRoundedPace">
+      <settingConfig type="boolean" required="true" />
+    </setting>
+  </settings>
+
+  <bitmap id="LauncherIcon" filename="launcher_icon.png"></bitmap>
+
+</resources>

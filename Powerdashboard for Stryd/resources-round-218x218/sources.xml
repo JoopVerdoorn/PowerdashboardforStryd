@@ -1,0 +1,5 @@
+<build>
+	<exclude file="../source/PowerdashboardforStryd-semiround-215x180.mc" />
+	<exclude file="../source/PowerdashboardforStryd-round-240x240.mc" />
+	<exclude file="../source/PowerdashboardforStryd-rectangle-205x148.mc" />
+</build>

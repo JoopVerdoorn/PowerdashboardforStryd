@@ -1,0 +1,22 @@
+info face="Oswald" size=45 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=45 base=35 scaleW=256 scaleH=256 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="Oswald45labelPowerdashboard-unbold_0.png"
+chars count=16
+char id=0    x=159   y=0     width=1     height=1     xoffset=0     yoffset=0     xadvance=0     page=0  chnl=15
+char id=13   x=151   y=0     width=3     height=1     xoffset=-1    yoffset=44    xadvance=6     page=0  chnl=15
+char id=32   x=155   y=0     width=3     height=1     xoffset=-1    yoffset=44    xadvance=6     page=0  chnl=15
+char id=45   x=143   y=0     width=7     height=2     xoffset=1     yoffset=26    xadvance=8     page=0  chnl=15
+char id=49   x=38    y=0     width=8     height=21    xoffset=0     yoffset=14    xadvance=10    page=0  chnl=15
+char id=65   x=0     y=0     width=13    height=21    xoffset=0     yoffset=14    xadvance=13    page=0  chnl=15
+char id=76   x=27    y=0     width=10    height=21    xoffset=1     yoffset=14    xadvance=10    page=0  chnl=15
+char id=80   x=14    y=0     width=12    height=21    xoffset=1     yoffset=14    xadvance=12    page=0  chnl=15
+char id=97   x=87    y=0     width=11    height=15    xoffset=0     yoffset=20    xadvance=11    page=0  chnl=15
+char id=101  x=99    y=0     width=11    height=15    xoffset=0     yoffset=20    xadvance=11    page=0  chnl=15
+char id=103  x=58    y=0     width=12    height=19    xoffset=0     yoffset=20    xadvance=11    page=0  chnl=15
+char id=111  x=111   y=0     width=11    height=15    xoffset=0     yoffset=20    xadvance=11    page=0  chnl=15
+char id=112  x=47    y=0     width=10    height=20    xoffset=1     yoffset=20    xadvance=12    page=0  chnl=15
+char id=114  x=134   y=0     width=8     height=15    xoffset=1     yoffset=20    xadvance=8     page=0  chnl=15
+char id=118  x=123   y=0     width=10    height=15    xoffset=0     yoffset=20    xadvance=10    page=0  chnl=15
+char id=119  x=71    y=0     width=15    height=15    xoffset=0     yoffset=20    xadvance=15    page=0  chnl=15
+kernings count=1
+kerning first=80  second=65  amount=-1  
