@@ -1,97 +1,96 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
 <pcToLineNum>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="3" pc="268435456" symbol="initialize"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="4" pc="268435460" symbol="initialize"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="8" pc="268435479" symbol="getInitialView"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="9" pc="268435483" symbol="getInitialView"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="32" pc="268435521" symbol="initialize"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="33" pc="268435525" symbol="initialize"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="38" pc="268435552" symbol="compute"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="39" pc="268435556" symbol="compute"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="40" pc="268435567" symbol="compute"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="41" pc="268435604" symbol="compute"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="42" pc="268435650" symbol="compute"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="43" pc="268435675" symbol="compute"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="48" pc="268435698" symbol="onTimerLap"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="49" pc="268435702" symbol="onTimerLap"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="51" pc="268435721" symbol="onTimerLap"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="52" pc="268435746" symbol="onTimerLap"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="55" pc="268435792" symbol="onTimerLap"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="56" pc="268435811" symbol="onTimerLap"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="57" pc="268435827" symbol="onTimerLap"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="61" pc="268435844" symbol="onTimerStart"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="62" pc="268435848" symbol="onTimerStart"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="63" pc="268435860" symbol="onTimerStart"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="68" pc="268435871" symbol="onTimerStop"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="69" pc="268435875" symbol="onTimerStop"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="70" pc="268435887" symbol="onTimerStop"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="75" pc="268435898" symbol="onTimerResume"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="76" pc="268435902" symbol="onTimerResume"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="81" pc="268435913" symbol="onTimerPause"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="82" pc="268435917" symbol="onTimerPause"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="87" pc="268435928" symbol="startStopPushed"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="88" pc="268435932" symbol="startStopPushed"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="89" pc="268435951" symbol="startStopPushed"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="94" pc="268435968" symbol="onTimerReset"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="95" pc="268435972" symbol="onTimerReset"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="96" pc="268435985" symbol="onTimerReset"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="97" pc="268435998" symbol="onTimerReset"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="98" pc="268436011" symbol="onTimerReset"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="99" pc="268436024" symbol="onTimerReset"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="100" pc="268436037" symbol="onTimerReset"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="101" pc="268436050" symbol="onTimerReset"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="107" pc="268436064" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="108" pc="268436068" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="109" pc="268436087" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="110" pc="268436087" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="111" pc="268436124" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="114" pc="268436161" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="115" pc="268436168" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="116" pc="268436181" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="120" pc="268436203" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="121" pc="268436210" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="123" pc="268436217" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="124" pc="268436230" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="125" pc="268436240" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="129" pc="268436262" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="130" pc="268436278" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="131" pc="268436306" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="132" pc="268436338" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="133" pc="268436370" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="134" pc="268436402" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="137" pc="268436434" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="138" pc="268436474" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="139" pc="268436491" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="140" pc="268436523" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="142" pc="268436555" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="149" pc="268436595" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="150" pc="268436611" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="153" pc="268436639" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="154" pc="268436646" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="155" pc="268436653" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="156" pc="268436660" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="158" pc="268436667" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="159" pc="268436674" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="160" pc="268436681" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="161" pc="268436688" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="163" pc="268436695" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="164" pc="268436702" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="165" pc="268436709" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="166" pc="268436716" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="168" pc="268436723" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="169" pc="268436730" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="170" pc="268436737" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="171" pc="268436744" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="173" pc="268436751" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="176" pc="268436758" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="177" pc="268436813" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="180" pc="268436865" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="181" pc="268436964" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="184" pc="268437016" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="185" pc="268437133" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="188" pc="268437185" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-rectangle-205x148.mc" lineNum="189" pc="268437302" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="3" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="4" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="8" pc="268435479" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="9" pc="268435483" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="32" pc="268435521" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="33" pc="268435525" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="38" pc="268435552" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="39" pc="268435556" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="40" pc="268435567" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="41" pc="268435604" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="42" pc="268435650" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="43" pc="268435675" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="48" pc="268435698" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="49" pc="268435702" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="51" pc="268435721" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="52" pc="268435746" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="55" pc="268435792" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="56" pc="268435811" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="57" pc="268435827" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="61" pc="268435844" symbol="onTimerStart"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="62" pc="268435848" symbol="onTimerStart"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="63" pc="268435860" symbol="onTimerStart"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="68" pc="268435871" symbol="onTimerStop"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="69" pc="268435875" symbol="onTimerStop"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="70" pc="268435887" symbol="onTimerStop"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="75" pc="268435898" symbol="onTimerResume"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="76" pc="268435902" symbol="onTimerResume"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="81" pc="268435913" symbol="onTimerPause"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="82" pc="268435917" symbol="onTimerPause"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="87" pc="268435928" symbol="startStopPushed"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="88" pc="268435932" symbol="startStopPushed"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="89" pc="268435951" symbol="startStopPushed"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="94" pc="268435968" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="95" pc="268435972" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="96" pc="268435985" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="97" pc="268435998" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="98" pc="268436011" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="99" pc="268436024" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="100" pc="268436037" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="106" pc="268436051" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="107" pc="268436055" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="108" pc="268436074" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="109" pc="268436074" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="110" pc="268436111" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="113" pc="268436148" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="114" pc="268436155" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="115" pc="268436168" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="119" pc="268436190" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="120" pc="268436197" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="122" pc="268436204" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="123" pc="268436217" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="124" pc="268436227" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="128" pc="268436249" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="129" pc="268436265" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="130" pc="268436293" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="131" pc="268436325" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="132" pc="268436357" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="133" pc="268436389" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="136" pc="268436421" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="137" pc="268436461" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="138" pc="268436478" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="139" pc="268436510" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="142" pc="268436542" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="149" pc="268436582" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="150" pc="268436598" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="153" pc="268436626" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="154" pc="268436633" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="155" pc="268436640" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="156" pc="268436647" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="158" pc="268436654" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="159" pc="268436661" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="160" pc="268436668" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="161" pc="268436675" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="163" pc="268436682" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="164" pc="268436689" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="165" pc="268436696" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="166" pc="268436703" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="168" pc="268436710" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="169" pc="268436717" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="170" pc="268436724" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="171" pc="268436731" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="173" pc="268436738" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="176" pc="268436745" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="177" pc="268436800" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="180" pc="268436852" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="181" pc="268436951" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="184" pc="268437003" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="185" pc="268437120" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="188" pc="268437172" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\git\\PowerdashboardforStryd\\Powerdashboard for Stryd\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="189" pc="268437289" symbol="onUpdate"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8389124" method="true" symbol="onUpdate"/>
@@ -141,31 +140,31 @@
 <entry endPc="268435698" name="info" stackId="1" startPc="268435552"/>
 <entry endPc="268435843" name="info" stackId="1" startPc="268435702"/>
 <entry endPc="268435967" name="info" stackId="1" startPc="268435932"/>
-<entry endPc="268437354" name="xtbl" stackId="19" startPc="268436068"/>
-<entry endPc="268437354" name="ytbr" stackId="24" startPc="268436068"/>
-<entry endPc="268437354" name="ytbl" stackId="20" startPc="268436068"/>
-<entry endPc="268437354" name="xbr" stackId="21" startPc="268436068"/>
-<entry endPc="268437354" name="yur" stackId="14" startPc="268436068"/>
-<entry endPc="268437354" name="Garminfont3" stackId="5" startPc="268436068"/>
-<entry endPc="268437354" name="Garminfont2" stackId="4" startPc="268436068"/>
-<entry endPc="268437354" name="mColour" stackId="3" startPc="268436068"/>
-<entry endPc="268437354" name="xbl" stackId="17" startPc="268436068"/>
-<entry endPc="268437354" name="xtur" stackId="15" startPc="268436068"/>
-<entry endPc="268437354" name="mLapElapsedPower" stackId="6" startPc="268436068"/>
-<entry endPc="268437354" name="yul" stackId="10" startPc="268436068"/>
-<entry endPc="268437354" name="zero" stackId="25" startPc="268436068"/>
-<entry endPc="268437354" name="xtul" stackId="11" startPc="268436068"/>
-<entry endPc="268437354" name="ytur" stackId="16" startPc="268436068"/>
-<entry endPc="268437354" name="mLapTimerTime" stackId="8" startPc="268436068"/>
-<entry endPc="268437354" name="mTimerTime" stackId="7" startPc="268436068"/>
-<entry endPc="268437354" name="ytul" stackId="12" startPc="268436068"/>
-<entry endPc="268437354" name="xur" stackId="13" startPc="268436068"/>
-<entry endPc="268437354" name="info" stackId="2" startPc="268436068"/>
-<entry endPc="268437354" name="ybr" stackId="22" startPc="268436068"/>
-<entry endPc="268437354" name="xul" stackId="9" startPc="268436068"/>
-<entry endPc="268437354" name="xtbr" stackId="23" startPc="268436068"/>
-<entry endPc="268437354" name="ybl" stackId="18" startPc="268436068"/>
-<entry endPc="268437355" name="dc" stackId="1" startPc="268436064"/>
+<entry endPc="268437341" name="xtbl" stackId="19" startPc="268436055"/>
+<entry endPc="268437341" name="ytbr" stackId="24" startPc="268436055"/>
+<entry endPc="268437341" name="ytbl" stackId="20" startPc="268436055"/>
+<entry endPc="268437341" name="xbr" stackId="21" startPc="268436055"/>
+<entry endPc="268437341" name="yur" stackId="14" startPc="268436055"/>
+<entry endPc="268437341" name="Garminfont3" stackId="5" startPc="268436055"/>
+<entry endPc="268437341" name="Garminfont2" stackId="4" startPc="268436055"/>
+<entry endPc="268437341" name="mColour" stackId="3" startPc="268436055"/>
+<entry endPc="268437341" name="xbl" stackId="17" startPc="268436055"/>
+<entry endPc="268437341" name="xtur" stackId="15" startPc="268436055"/>
+<entry endPc="268437341" name="mLapElapsedPower" stackId="6" startPc="268436055"/>
+<entry endPc="268437341" name="yul" stackId="10" startPc="268436055"/>
+<entry endPc="268437341" name="zero" stackId="25" startPc="268436055"/>
+<entry endPc="268437341" name="xtul" stackId="11" startPc="268436055"/>
+<entry endPc="268437341" name="ytur" stackId="16" startPc="268436055"/>
+<entry endPc="268437341" name="mLapTimerTime" stackId="8" startPc="268436055"/>
+<entry endPc="268437341" name="mTimerTime" stackId="7" startPc="268436055"/>
+<entry endPc="268437341" name="ytul" stackId="12" startPc="268436055"/>
+<entry endPc="268437341" name="xur" stackId="13" startPc="268436055"/>
+<entry endPc="268437341" name="info" stackId="2" startPc="268436055"/>
+<entry endPc="268437341" name="ybr" stackId="22" startPc="268436055"/>
+<entry endPc="268437341" name="xul" stackId="9" startPc="268436055"/>
+<entry endPc="268437341" name="xtbr" stackId="23" startPc="268436055"/>
+<entry endPc="268437341" name="ybl" stackId="18" startPc="268436055"/>
+<entry endPc="268437342" name="dc" stackId="1" startPc="268436051"/>
 </localVars>
 <annotations/>
 <functions>

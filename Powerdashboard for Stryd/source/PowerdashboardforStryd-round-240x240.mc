@@ -92,7 +92,6 @@ class DatarunView extends Toybox.WatchUi.DataField {
 
     //! Current activity is ended
     function onTimerReset() {
-        mPrevElapsedPower	        = 0;
         mLaps                       = 1;
         mLastLapPowerMarker          = 0;
         mLastLapTimeMarker          = 0;
